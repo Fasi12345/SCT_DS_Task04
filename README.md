@@ -1,8 +1,8 @@
 # Task 4 – Global Traffic Accident Analysis with Data Visualization
----
-This project is part of my Data Science Internship at SkillCraft Technology.
-The main objective is to perform Exploratory Data Analysis (EDA) and extract meaningful insights from a global traffic accident dataset using data visualization techniques.
 
+---
+This project is part of my Data Science Internship at SkillCraft Technology.The main objective is to perform Exploratory Data Analysis (EDA) and extract meaningful insights from a global traffic accident dataset using data visualization techniques.
+---
 Objective
 To explore and visualize traffic accident data to identify critical patterns related to:
 
